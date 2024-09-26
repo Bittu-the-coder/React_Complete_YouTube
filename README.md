@@ -2,7 +2,6 @@
 
 <img width="960" alt="React and Redux Thumbnail" src="https://github.com/KG-Coding-with-Prashant-Sir/React_Complete_YouTube/assets/102736197/57051d89-8fdd-46fa-904f-836940976a84">
 
-
 ### Best Practices for Contributors
 
 Thank you for your interest in contributing to this repository! We encourage you to help us improve the project by focusing on the following guidelines:
@@ -20,3 +19,5 @@ Thank you for your interest in contributing to this repository! We encourage you
    To preserve the learning timeline associated with the course, only bug fixes and issue-related pull requests will be accepted here. All other contributions should go through your fork, ensuring the main repository remains focused on its educational purpose.
 
 Thank you for your contributions, and we look forward to collaborating with you!
+
+i have clone this to my local system.
